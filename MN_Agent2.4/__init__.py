@@ -1,0 +1,1 @@
+from .MN_Agent2 import check_and_install_dependencies
