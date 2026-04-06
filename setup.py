@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="MN_Agent2.4",
+    name="mnagent",
     version="2.4",
     packages=find_packages(),
     author="ANIRBAN ADHIKARY",
