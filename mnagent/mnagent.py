@@ -96,3 +96,11 @@ if __name__ != "__main__":
         sys.exit(0)
     except Exception as e:
         print(f"{Colors.RED}Agent System Error: {e}{Colors.ENDC}")
+
+
+
+# ------------------------------------------------------------
+# Copyright (c) 2026 MN-ANIRBAN. All rights reserved.
+# Licensed under the MIT License.
+# Project: MNAgent (Advanced Dependency Guard)
+# ------------------------------------------------------------
